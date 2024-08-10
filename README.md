@@ -4,12 +4,18 @@ Created an accident analysis report using Power BI involves several steps, inclu
 
 # Power BI Implementation Steps:-
 Import Data: Load your accident dataset into Power BI Desktop.
+
 Data Cleaning: Use Power Query to clean and transform the data.
+
 Modeling: Establish relationships and create necessary measures using DAX.
+
 Visualization: Design interactive reports and dashboards with various visuals.
+
 Publish & Share: Publish the report to Power BI Service for sharing with stakeholders.
+
 # Data Transformation :
 Convert data types as necessary (e.g., dates, categories).
+
 Create calculated columns or measures, such as Accident Frequency, Severity Index, or Weather Impact Score.
 
 Sample Data Fields:-
@@ -49,9 +55,7 @@ Current Year Serious Casualties.
 
 Current Year Slight Casualties.
 
-Calculated some visualizations are  Casualties by Location, Casualties by                
-Vehicle type, Current Year Casualties by Road type, Current Year Casualties 
-by Urban/Rural, Current Year Casualties by Light Conditions.
+Calculated some visualizations are  Casualties by Location, Casualties by Vehicle type, Current Year Casualties by Road type, Current Year Casualties by Urban/Rural, Current Year Casualties by Light Conditions.
 
 # 🛠️Tools Used: Power BI Desktop, Power Query, DAX.
 

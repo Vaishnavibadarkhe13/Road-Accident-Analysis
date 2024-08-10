@@ -11,25 +11,44 @@ Publish & Share: Publish the report to Power BI Service for sharing with stakeho
 # Data Transformation :
 Convert data types as necessary (e.g., dates, categories).
 Create calculated columns or measures, such as Accident Frequency, Severity Index, or Weather Impact Score.
+
 Sample Data Fields:-
+
 Date : Date and time of the accident.
+
 Location : Geographic location or coordinates.
+
 Severity : Classification (e.g., Minor, Major, Fatal).
+
 Cause : Identified cause of the accident (e.g., Speeding, Distracted Driving).
+
 Weather Conditions : Weather at the time of the accident.
+
 Vehicle Type : Type of vehicles involved.
+
 Injuries/Fatalities : Number of injuries or fatalities.
+
 Accident Overview Dashboard : Display total accidents, accident types, and severity distribution using cards and pie charts.
+
 Trend Analysis : Use line charts to visualize accident trends over time (monthly, quarterly, yearly).
+
 Geographical Analysis: Utilize maps to show accident hotspots and analyze location-based patterns.
+
 Cause Analysis: Bar charts to identify the most common causes of accidents.
+
 Weather Impact: Analyze the influence of weather conditions on accident occurrence using heatmaps or scatter plots.
+
 # 🔍Key Performance Indicators (KPIs):-
 Total Current Year Casualties.
+
 Total Current Year Accidents.
+
 Current Year Fatal Casualties.
+
 Current Year Serious Casualties.
+
 Current Year Slight Casualties.
+
 Calculated some visualizations are  Casualties by Location, Casualties by                
 Vehicle type, Current Year Casualties by Road type, Current Year Casualties 
 by Urban/Rural, Current Year Casualties by Light Conditions.

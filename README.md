@@ -57,6 +57,8 @@ Current Year Slight Casualties.
 
 Calculated some visualizations are  Casualties by Location, Casualties by Vehicle type, Current Year Casualties by Road type, Current Year Casualties by Urban/Rural, Current Year Casualties by Light Conditions.
 
-# 🛠️Tools Used: Power BI Desktop, Power Query, DAX.
+# 🛠️Tools Used: 
+Power BI Desktop, Power Query, DAX.
 
-# Outcome: Interactive dashboards with actionable insights for safety improvement and accident prevention strategies.
+# Outcome: 
+Interactive dashboards with actionable insights for safety improvement and accident prevention strategies.

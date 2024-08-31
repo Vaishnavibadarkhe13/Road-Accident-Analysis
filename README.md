@@ -57,6 +57,27 @@ Current Year Slight Casualties.
 
 Calculated some visualizations are  Casualties by Location, Casualties by Vehicle type, Current Year Casualties by Road type, Current Year Casualties by Urban/Rural, Current Year Casualties by Light Conditions.
 
+
+
+# 📊 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:
+
+- 📈 Total Casualties Analysis: 417,883 casualties over two years.
+- 🗓️ Peak Months: October and November saw the highest casualties. 
+- 🚔 Casualties by Vehicle Type: Car accidents accounted for 79.8% of total casualties. 
+- 🤕 Accident Severity: Slight severity casualties formed 84.1%, with fatal severity at only 1.7%. 
+- 🛣️ Road Type Analysis: Single carriageway roads had the maximum casualties.
+- 🛣️ Road Surface: 67% of casualties occurred on dry road surfaces.
+- 📍Area/Location: Urban areas accounted for 61% of casualties.
+- 💡Light Condition: 73% of casualties occurred in daylight conditions.
+
+# 💡 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬 :
+
+1. Enhance road safety measures during high-risk periods (October and November).
+2. Focus on awareness campaigns and monitoring for car drivers.
+3. Improve and upgrade single carriageway roads.
+4. Target urban areas with specific interventions, especially during daylight conditions.
+5. Enhance road maintenance and surface improvements.
+
 # 🛠️Tools Used: 
 Power BI Desktop, Power Query, DAX.
 
